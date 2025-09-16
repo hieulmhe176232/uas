@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>capstone.fpt</groupId>
-	<artifactId>uas</artifactId>
+	<artifactId>dorm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>uas</name>
-	<description>uas</description>
+	<name>dorm</name>
+	<description>Dormitory Management</description>
 	<url/>
 	<licenses>
 		<license/>

@@ -1,13 +1,13 @@
-package capstone.fpt.uas;
+package capstone.fpt.dorm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UasApplication {
+public class DormApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UasApplication.class, args);
+		SpringApplication.run(DormApplication.class, args);
 	}
 
 }
